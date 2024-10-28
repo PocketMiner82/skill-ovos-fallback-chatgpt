@@ -1,12 +1,80 @@
 # Changelog
 
-## [0.1.3a1](https://github.com/OpenVoiceOS/skill-ovos-fallback-chatgpt/tree/0.1.3a1) (2024-10-16)
+## [0.1.4a1](https://github.com/PocketMiner82/skill-ovos-fallback-chatgpt/tree/0.1.4a1) (2024-10-28)
 
-[Full Changelog](https://github.com/OpenVoiceOS/skill-ovos-fallback-chatgpt/compare/0.1.2...0.1.3a1)
+[Full Changelog](https://github.com/PocketMiner82/skill-ovos-fallback-chatgpt/compare/V0.0.2a17...0.1.4a1)
 
 **Merged pull requests:**
 
-- fix:allow more recent OPM [\#33](https://github.com/OpenVoiceOS/skill-ovos-fallback-chatgpt/pull/33) ([JarbasAl](https://github.com/JarbasAl))
+- Patch 1 [\#1](https://github.com/PocketMiner82/skill-ovos-fallback-chatgpt/pull/1) ([PocketMiner82](https://github.com/PocketMiner82))
+
+## [V0.0.2a17](https://github.com/PocketMiner82/skill-ovos-fallback-chatgpt/tree/V0.0.2a17) (2024-04-03)
+
+[Full Changelog](https://github.com/PocketMiner82/skill-ovos-fallback-chatgpt/compare/V0.0.2a16...V0.0.2a17)
+
+## [V0.0.2a16](https://github.com/PocketMiner82/skill-ovos-fallback-chatgpt/tree/V0.0.2a16) (2024-04-03)
+
+[Full Changelog](https://github.com/PocketMiner82/skill-ovos-fallback-chatgpt/compare/V0.0.2a15...V0.0.2a16)
+
+## [V0.0.2a15](https://github.com/PocketMiner82/skill-ovos-fallback-chatgpt/tree/V0.0.2a15) (2024-03-18)
+
+[Full Changelog](https://github.com/PocketMiner82/skill-ovos-fallback-chatgpt/compare/V0.0.2a14...V0.0.2a15)
+
+## [V0.0.2a14](https://github.com/PocketMiner82/skill-ovos-fallback-chatgpt/tree/V0.0.2a14) (2024-03-18)
+
+[Full Changelog](https://github.com/PocketMiner82/skill-ovos-fallback-chatgpt/compare/V0.0.2a13...V0.0.2a14)
+
+## [V0.0.2a13](https://github.com/PocketMiner82/skill-ovos-fallback-chatgpt/tree/V0.0.2a13) (2024-02-17)
+
+[Full Changelog](https://github.com/PocketMiner82/skill-ovos-fallback-chatgpt/compare/V0.0.2a12...V0.0.2a13)
+
+## [V0.0.2a12](https://github.com/PocketMiner82/skill-ovos-fallback-chatgpt/tree/V0.0.2a12) (2024-02-14)
+
+[Full Changelog](https://github.com/PocketMiner82/skill-ovos-fallback-chatgpt/compare/V0.0.2a11...V0.0.2a12)
+
+## [V0.0.2a11](https://github.com/PocketMiner82/skill-ovos-fallback-chatgpt/tree/V0.0.2a11) (2024-01-22)
+
+[Full Changelog](https://github.com/PocketMiner82/skill-ovos-fallback-chatgpt/compare/V0.0.2a10...V0.0.2a11)
+
+## [V0.0.2a10](https://github.com/PocketMiner82/skill-ovos-fallback-chatgpt/tree/V0.0.2a10) (2023-12-30)
+
+[Full Changelog](https://github.com/PocketMiner82/skill-ovos-fallback-chatgpt/compare/V0.0.2a9...V0.0.2a10)
+
+## [V0.0.2a9](https://github.com/PocketMiner82/skill-ovos-fallback-chatgpt/tree/V0.0.2a9) (2023-12-29)
+
+[Full Changelog](https://github.com/PocketMiner82/skill-ovos-fallback-chatgpt/compare/V0.0.2a8...V0.0.2a9)
+
+## [V0.0.2a8](https://github.com/PocketMiner82/skill-ovos-fallback-chatgpt/tree/V0.0.2a8) (2023-11-25)
+
+[Full Changelog](https://github.com/PocketMiner82/skill-ovos-fallback-chatgpt/compare/V0.0.2a7...V0.0.2a8)
+
+## [V0.0.2a7](https://github.com/PocketMiner82/skill-ovos-fallback-chatgpt/tree/V0.0.2a7) (2023-11-25)
+
+[Full Changelog](https://github.com/PocketMiner82/skill-ovos-fallback-chatgpt/compare/V0.0.2a6...V0.0.2a7)
+
+## [V0.0.2a6](https://github.com/PocketMiner82/skill-ovos-fallback-chatgpt/tree/V0.0.2a6) (2023-11-25)
+
+[Full Changelog](https://github.com/PocketMiner82/skill-ovos-fallback-chatgpt/compare/V0.0.2a5...V0.0.2a6)
+
+## [V0.0.2a5](https://github.com/PocketMiner82/skill-ovos-fallback-chatgpt/tree/V0.0.2a5) (2023-11-25)
+
+[Full Changelog](https://github.com/PocketMiner82/skill-ovos-fallback-chatgpt/compare/V0.0.2a4...V0.0.2a5)
+
+## [V0.0.2a4](https://github.com/PocketMiner82/skill-ovos-fallback-chatgpt/tree/V0.0.2a4) (2023-11-25)
+
+[Full Changelog](https://github.com/PocketMiner82/skill-ovos-fallback-chatgpt/compare/V0.0.2a3...V0.0.2a4)
+
+## [V0.0.2a3](https://github.com/PocketMiner82/skill-ovos-fallback-chatgpt/tree/V0.0.2a3) (2023-05-25)
+
+[Full Changelog](https://github.com/PocketMiner82/skill-ovos-fallback-chatgpt/compare/V0.0.2a2...V0.0.2a3)
+
+## [V0.0.2a2](https://github.com/PocketMiner82/skill-ovos-fallback-chatgpt/tree/V0.0.2a2) (2023-03-20)
+
+[Full Changelog](https://github.com/PocketMiner82/skill-ovos-fallback-chatgpt/compare/V0.0.2a1...V0.0.2a2)
+
+## [V0.0.2a1](https://github.com/PocketMiner82/skill-ovos-fallback-chatgpt/tree/V0.0.2a1) (2023-03-20)
+
+[Full Changelog](https://github.com/PocketMiner82/skill-ovos-fallback-chatgpt/compare/1c73c6a5e5a16b4644004c85d465bc690c0db506...V0.0.2a1)
 
 
 
